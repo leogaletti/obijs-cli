@@ -20,6 +20,12 @@ Runnig command:
 $ obijs-cli new name_of_project
 ```
 
+## Versions
+
+### 0.0.3
+
+Add github repository to project
+
 # License
 
 MIT - see LICENSE

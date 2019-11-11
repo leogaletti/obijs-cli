@@ -1,6 +1,6 @@
 {
   "name": "obijs-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "obijs-cli CLI",
   "types": "build/types/types.d.ts",
   "bin": {
@@ -31,6 +31,10 @@
   "license": "MIT",
   "dependencies": {
     "gluegun": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leogaletti/obijs-cli"
   },
   "devDependencies": {
     "@types/node": "^12.7.11",
